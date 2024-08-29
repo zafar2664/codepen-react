@@ -1,0 +1,1 @@
+export {default as codepen} from './codepenimage.webp'
